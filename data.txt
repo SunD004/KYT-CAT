@@ -1,0 +1,83 @@
+                                ******************** QUIZZUP REPONSE ************************
+-------------------------------------------------------------------------------------------------------------------------------
+
+What could be the best way to recude the risk of findinf a Trojan Horse in a compiler ?
+-> Make it legal, impose contracts
+
+The art and science of creating code is called :
+-> Cryptography
+
+Brute force attacks can be countered with :
+-> Size
+
+What does Thompson think about breaking into a computer system ?
+-> press is responsible, bad light
+
+Who said "You can't trust code that you did not totally create yourself" ?
+-> Ken Thompson
+
+Cyber adversary motivations include which of the following :
+-> All these answers
+
+In the words of Ritchie and Thompson, what is a shell ?
+-> The command interpreter
+
+What is the CIA model of cyber security ?
+-> Privacy,integrity,availability
+
+In what kind of threat do we use behavioral analysis ?
+-> Fraud threat
+
+The couple "Active/entity/Asset" is seen through the Reference monitor as ?
+-> Subject/Object model
+
+Let's talk about adversary types, we can say that Hacktivist are?
+-> Motivated by anger
+
+Confidentiality issues can be solved by ?
+-> Using encryption mechanisms
+
+Encryption hard wired between, for example 2 buildings is calledd ?
+-> Link encryption
+
+The art and science of breaking code is called :
+-> Cryptanalysis
+
+A malicious worm program is characterized by the following fundamental attribute :
+-> Auto-propagation
+
+Which of the following are vulnerability types ?
+-> All thses answers
+
+Let's talk about adversary types, we can say that vandals are ?
+-> Motivated by curiosity
+
+Embedding a trap door into a login program results in which of the following:
+-> improved version of the login
+
+What would be the best way to pick up a Trojan Horse trap door ?
+-> Code review
+
+Brute force attacks are good for which of the following scenarios ?
+-> attacks with size not too big
+
+Let's talk about adversary types, we can say that Criminals are ?
+-> Motivated by greed
+
+The integrity threat can be examplified by which of the following scenarios ?
+-> customer records were hidden
+
+In the words of Ritchie and Thompson, what is a Kernel ?
+-> OS that manages the machine
+
+Which of the following is true about Pen Testing ?
+-> useful, but not enough
+
+Where were Thompson and Ritchie working when they created UNIX ?
+-> At Bell Labs
+
+What's the equivalent of the Nobel Prize of computing ?
+-> Turing award
+
+Let's talk about adversary types, we can say that Nation-state actors are ?
+-> Motivated by dominance
