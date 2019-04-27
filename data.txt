@@ -32,12 +32,12 @@ The couple "Active/entity/Asset" is seen through the Reference monitor as ?
 -> Subject/Object model
 
 Let's talk about adversary types, we can say that Hacktivist are?
--> Motivated by anger
+-> Motivated by anger and unpredictable and well organized
 
 Confidentiality issues can be solved by ?
 -> Using encryption mechanisms
 
-Encryption hard wired between, for example 2 buildings is calledd ?
+Encryption hard wired between, for example 2 buildings is called ?
 -> Link encryption
 
 The art and science of breaking code is called :
@@ -47,10 +47,10 @@ A malicious worm program is characterized by the following fundamental attribute
 -> Auto-propagation
 
 Which of the following are vulnerability types ?
--> All thses answers
+-> All theses answers
 
 Let's talk about adversary types, we can say that vandals are ?
--> Motivated by curiosity
+-> Motivated by curiosity and predictable
 
 Embedding a trap door into a login program results in which of the following:
 -> improved version of the login
@@ -60,18 +60,26 @@ What would be the best way to pick up a Trojan Horse trap door ?
 
 Brute force attacks are good for which of the following scenarios ?
 -> attacks with size not too big
+OR
+-> Lot's of attack choices. Hoping the size of encryption is not too big
 
 Let's talk about adversary types, we can say that Criminals are ?
 -> Motivated by greed
 
 The integrity threat can be examplified by which of the following scenarios ?
--> customer records were hidden
+-> customer records were hidden, but might have been slightly garbied
 
 In the words of Ritchie and Thompson, what is a Kernel ?
 -> OS that manages the machine
 
+In the words of Ritchie and Thompson, what is a Shell ?
+-> The command interpreter that looks after the communication between the user and the system
+
 Which of the following is true about Pen Testing ?
 -> useful, but not enough
+
+Which of the following is true ?
+-> Pen testing is useful but not enough
 
 Where were Thompson and Ritchie working when they created UNIX ?
 -> At Bell Labs
@@ -96,3 +104,36 @@ The difference between a hurricane knocking out a data center and a milicious ha
 
 In general integrity threats involve ?
 -> Problems in memory
+
+Distribution, amplification, spoofing and reflection are fundamental notions of what ?
+-> Availability threats
+
+Embedding a trap door into a login program results in which of the following :
+-> An improved version of the login program with enchanced secret acess
+
+Confidentiality issues can be solved by ?
+-> Using encryption mechanisms
+
+The couple "Active entity/Asset" is seen through the Reference Monitor as ?
+-> Subject/Object model
+
+What is the "Morris Worm" ?
+-> A malicious program unleashed with no armful intention that lead to the infection of more than 10% of the world's computers.
+
+A typical integrity threat may concern ?
+-> Buffer overflow
+
+Heuristic attacks can be countered with :
+-> Complexity
+
+A typical availability threat is ?
+-> A denial of service attack
+
+A malicious worm program is characterized by the following fundamental attribute :
+-> Auto-propagation without human intervention
+
+Pre-attack indicators are like post-attack indicators in which of the following ways :
+-> Neither can possibly prevent an attack
+
+Cyber adversary motivations include which of the following :
+-> All these answers
