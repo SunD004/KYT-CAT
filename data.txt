@@ -87,3 +87,12 @@ Pre-attack indicators are like post-attack indicators in which of the following 
 
 Who is famous for insisting on the fact that proving the existence of one problem does not demonstrate the absence of others ?
 -> E. Dijkstra
+
+Which of the following is an advantage of more reactive cyber defense (versus proactive defense) ?
+-> More vendor options
+
+The difference between a hurricane knocking out a data center and a milicious hacker knocking out the same date center is following :
+-> One involves multiple vulnerabilities and other is a weakness.
+
+In general integrity threats involve ?
+-> Problems in memory
